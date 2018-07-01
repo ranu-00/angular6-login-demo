@@ -3,11 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 # Step To follow 
-
-1: install node in your machine 
-2: run cmd  == npm install -g @angular/cli
-3: run cmd == ng new "xyz app name"
-4: run cmd == ng serve
+<br>
+1: install node in your machine <br>
+2: run cmd  == npm install -g @angular/cli<br>
+3: run cmd == ng new "xyz app name"<br>
+4: run cmd == ng serve<br>
 
 ## Development server
 
